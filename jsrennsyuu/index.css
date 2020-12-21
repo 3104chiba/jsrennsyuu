@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+  background-color: #E6E6FA
+}
+#h1tag{
+  color: #0000FF
+}
+.start{
+  background-color: #FF4500;
+  width: 1000px;
+  height: 500px;
+
+}
+.start > p{
+  font-weight: bolder;
+  font-style: oblique;
+}
